@@ -18,6 +18,7 @@ public class Location {
     double lon;
     int image;
 
+    static Location placeHolder = new Location();
     static Location A = new Location();
     static Location B = new Location();
     static Location C = new Location();

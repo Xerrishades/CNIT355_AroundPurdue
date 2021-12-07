@@ -150,6 +150,9 @@ public class MainActivity extends AppCompatActivity {
         Location.F.address = "552 W Wood St, West Lafayette, IN 47907";
         Location.F.time = "Monday-Friday: 10:00 am - 5:00 pm";
         Location.F.contact = "(765) 494-3061";
+        Location.F.lat = 40.4221186;
+        Location.F.lon = -86.9098706;
+        Location.F.image = R.drawable.purdue_university_art_galleries;
         Location.F.link = "https://www.cla.purdue.edu/academic/rueffschool/galleries/index.html";
         locations.add(Location.F);
 
@@ -163,6 +166,9 @@ public class MainActivity extends AppCompatActivity {
         Location.G.address = "101 S Grant St, West Lafayette, IN 47906";
         Location.G.time = "Monday      10AM–9PM \n Tuesday    10AM–9PM \n Wednesday  10AM–9PM \n Thursday   10AM–11PM \n Friday       10AM–11PM \n Saturday  10AM–11PM \n Sunday       1PM–9PM";
         Location.G.contact = "(765) 494-8990";
+        Location.G.lat = 40.4221186;
+        Location.G.lon = -86.9098706;
+        Location.G.image = R.drawable.purdue_university_art_galleries;
         Location.G.link = "https://union.purdue.edu/racknroll/index.html";
         locations.add(Location.G);
 
@@ -176,6 +182,9 @@ public class MainActivity extends AppCompatActivity {
         Location.H.address = "375 Brown St, West Lafayette, IN 47906";
         Location.H.time = "Monday      12PM–9PM \n Tuesday    12PM–9PM \n Wednesday  12PM–9PM \n Thursday   12PM–9PM \n Friday    12PM–9PM \n Saturday   12PM–9PM \n Sunday    12PM–5PM";
         Location.H.contact = "(765) 743-7800";
+        Location.H.lat = 40.4221186;
+        Location.H.lon = -86.9098706;
+        Location.H.image = R.drawable.purdue_university_art_galleries;
         Location.H.link = "https://www.allfiredupwestlafayette.com/";
         locations.add(Location.H);
 
@@ -189,6 +198,9 @@ public class MainActivity extends AppCompatActivity {
         Location.I.address = "220 Columbia Street, Lafayette, IN 47901";
         Location.I.time = "Monday Closed \nTuesday - Thursday: 6–10PM\nFriday	6–11PM\nSaturday 12PM–12AM\nSunday	12–8PM";
         Location.I.contact = "(765) 714-4441";
+        Location.I.lat = 40.4221186;
+        Location.I.lon = -86.9098706;
+        Location.I.image = R.drawable.purdue_university_art_galleries;
         Location.I.link = "http://merlinsbeard.net/";
         locations.add(Location.I);
 
@@ -202,6 +214,9 @@ public class MainActivity extends AppCompatActivity {
         Location.J.address = "325 S. Earl Avenue, Lafayette, IN 47904";
         Location.J.time = "Monday  Closed \n Tuesday	12–8PM \n Wednesday	12–8PM \n Thursday	12–8PM \n Friday	12–9:45PM \n Saturday	11AM–10:15PM \n Sunday	12–8PM";
         Location.J.contact = "(765) 250-5180";
+        Location.F.lat = 40.4221186;
+        Location.F.lon = -86.9098706;
+        Location.F.image = R.drawable.purdue_university_art_galleries;
         Location.J.link = "https://www.missionbreakoutlafayette.com/";
         locations.add(Location.J);
 
@@ -215,6 +230,9 @@ public class MainActivity extends AppCompatActivity {
         Location.K.address = "N 5th St, Lafayette, IN 47901";
         Location.K.time = "Saturday 8AM-12:30PM";
         Location.K.contact = "(765) 742-4044";
+        Location.F.lat = 40.4221186;
+        Location.F.lon = -86.9098706;
+        Location.F.image = R.drawable.purdue_university_art_galleries;
         Location.K.link = "https://lafayettefarmersmarket.com/";
         locations.add(Location.K);
 
@@ -228,6 +246,9 @@ public class MainActivity extends AppCompatActivity {
         Location.L.address = "846 Main St, Lafayette, IN 47901";
         Location.L.time = "Monday  Closed \nTuesday	1–8PM\n Wednesday	1–8PM\n Thursday	1–8PM\n Friday	1–8PM \nSaturday	11AM–8PM Sunday Closed";
         Location.L.contact = "(812) 340-2312";
+        Location.F.lat = 40.4221186;
+        Location.F.lon = -86.9098706;
+        Location.F.image = R.drawable.purdue_university_art_galleries;
         Location.L.link = "https://www.lazycatloungecafe.com/";
         locations.add(Location.L);
 
@@ -241,6 +262,9 @@ public class MainActivity extends AppCompatActivity {
         Location.M.address = "208 W Columbia St, West Lafayette, IN 47906";
         Location.M.time = " Monday	Closed \nTuesday	12–8PM \nWednesday	12–8PM \nThursday	12–8PM \nFriday	12–6PM \nSaturday	10AM–6PM \nSunday	Closed";
         Location.M.contact = "(765) 743-2261";
+        Location.F.lat = 40.4221186;
+        Location.F.lon = -86.9098706;
+        Location.F.image = R.drawable.purdue_university_art_galleries;
         Location.M.link = "https://wlaf.lib.in.us/";
         locations.add(Location.M);
 
@@ -254,6 +278,9 @@ public class MainActivity extends AppCompatActivity {
         Location.N.address = "307 Sagamore Pkwy W C, West Lafayette, IN 47906";
         Location.N.time = "Monday	12–9PM \nTuesday	12–9PM \nWednesday	12–9PM \nThursday	12–9PM \nFriday	12–10PM \nSaturday	12–10PM \nSunday	12–9PM";
         Location.N.contact = "(765) 418-0444";
+        Location.F.lat = 40.4221186;
+        Location.F.lon = -86.9098706;
+        Location.F.image = R.drawable.purdue_university_art_galleries;
         Location.N.link = "https://www.silverdipper.com";
         locations.add(Location.N);
 
@@ -267,6 +294,9 @@ public class MainActivity extends AppCompatActivity {
         Location.O.address = "210 Main St, Lafayette, IN 47901";
         Location.O.time = "Monday	7:30AM–5PM \nTuesday	7:30AM–5PM \nWednesday	7:30AM–5PM \nThursday	7:30AM–5PM \nFriday	7:30AM–5PM \nSaturday	7:30AM–5PM \nSunday	Closed";
         Location.O.contact = "(765) 420-7099";
+        Location.F.lat = 40.4221186;
+        Location.F.lon = -86.9098706;
+        Location.F.image = R.drawable.purdue_university_art_galleries;
         Location.O.link = "starcity.coffee";
         locations.add(Location.O);
 
@@ -280,6 +310,9 @@ public class MainActivity extends AppCompatActivity {
         Location.P.address = "1016 Main St, Lafayette, IN 47901";
         Location.P.time = "Monday	Closed \nTuesday	11AM–10PM \nWednesday	11AM–10PM \nThursday	11AM–10PM \nFriday	11AM–11PM \nSaturday	11AM–11PM \nSunday	11AM–9PM";
         Location.P.contact = "(765) 607-4600";
+        Location.F.lat = 40.4221186;
+        Location.F.lon = -86.9098706;
+        Location.F.image = R.drawable.purdue_university_art_galleries;
         Location.P.link = "eastendmain.com";
         locations.add(Location.P);
 
@@ -293,6 +326,9 @@ public class MainActivity extends AppCompatActivity {
         Location.Q.address = "100 S Chauncey Ave STE 110, West Lafayette, IN 47906";
         Location.Q.time = "Monday	12–10PM \nTuesday	12–10PM \nWednesday	12–10PM \nThursday	12–10PM \nFriday	12–10PM \nSaturday	12–10PM \nSunday	12–10PM";
         Location.Q.contact = "(765) 479-7952";
+        Location.F.lat = 40.4221186;
+        Location.F.lon = -86.9098706;
+        Location.F.image = R.drawable.purdue_university_art_galleries;
         Location.Q.link = "https://www.yatagarasuramen.com/";
         locations.add(Location.Q);
 
@@ -306,6 +342,9 @@ public class MainActivity extends AppCompatActivity {
         Location.R.address = "100 S Chauncey Ave Ste 100, West Lafayette, IN 47906";
         Location.R.time = "Monday	10AM–12AM \nTuesday	10AM–12AM \nWednesday	10AM–12AM \nThursday	10AM–12AM \nFriday	10AM–12AM \nSaturday	10AM–12AM \nSunday	10AM–12AM";
         Location.R.contact = "(463) 213-3068";
+        Location.F.lat = 40.4221186;
+        Location.F.lon = -86.9098706;
+        Location.F.image = R.drawable.purdue_university_art_galleries;
         Location.R.link = "";
         locations.add(Location.R);
 
@@ -319,6 +358,9 @@ public class MainActivity extends AppCompatActivity {
         Location.R.address = "2 N Salisbury St, West Lafayette, IN 47906";
         Location.R.time = "Monday	7AM–10PM \nTuesday	Closed \nWednesday	7AM–10PM \nThursday	7AM–10PM \nFriday	7AM–10PM \nSaturday	7AM–10PM \nSunday	7AM–10PM";
         Location.R.contact = "(765) 743-5373";
+        Location.F.lat = 40.4221186;
+        Location.F.lon = -86.9098706;
+        Location.F.image = R.drawable.purdue_university_art_galleries;
         Location.R.link = "triplexxxfamilyrestaurant.com";
         locations.add(Location.R);
 
@@ -332,6 +374,9 @@ public class MainActivity extends AppCompatActivity {
         Location.S.address = "102 N Chauncey Ave, West Lafayette, IN 47906";
         Location.S.time = "Monday	11AM–9PM \nTuesday	11AM–9PM \nWednesday	11AM–9PM \nThursday	11AM–9PM \nFriday	11AM–9PM \nSaturday	12–9PM \nSunday	Closed";
         Location.S.contact = "(765) 838-0987";
+        Location.F.lat = 40.4221186;
+        Location.F.lon = -86.9098706;
+        Location.F.image = R.drawable.purdue_university_art_galleries;
         Location.S.link = "";
         locations.add(Location.S);
 
@@ -345,6 +390,9 @@ public class MainActivity extends AppCompatActivity {
         Location.S.address = "117 Northwestern Ave Suite 1, Lafayette, IN 47906";
         Location.S.time = "Monday	12–8PM \nTuesday	12–8PM \nWednesday	12–8PM \nThursday	12–8PM \nFriday	12–8PM \nSaturday	12–8PM \nSunday	12–8PM";
         Location.S.contact = "(765) 743-2993";
+        Location.F.lat = 40.4221186;
+        Location.F.lon = -86.9098706;
+        Location.F.image = R.drawable.purdue_university_art_galleries;
         Location.S.link = "potbelly.com";
         locations.add(Location.S);
 
@@ -358,6 +406,9 @@ public class MainActivity extends AppCompatActivity {
         Location.T.address = "501 Columbia St, Lafayette, IN 47901";
         Location.T.time= "Monday	12–8PM \nTuesday	12–8PM \nWednesday	12–8PM \nThursday	12–8PM \nFriday	12–8PM \nSaturday	12–8PM \nSunday	12–8PM";
         Location.T.contact = "(765) 742-4204";
+        Location.F.lat = 40.4221186;
+        Location.F.lon = -86.9098706;
+        Location.F.image = R.drawable.purdue_university_art_galleries;
         Location.T.link = "sunrisediner.com";
         locations.add(Location.T);
 
@@ -371,6 +422,9 @@ public class MainActivity extends AppCompatActivity {
         Location.U.address = "501 Columbia St, Lafayette, IN 47901";
         Location.U.time= "Monday	12–8PM \nTuesday	12–8PM \nWednesday	12–8PM \nThursday	12–8PM \nFriday	12–8PM \nSaturday	12–8PM \nSunday	12–8PM";
         Location.U.contact = "(765) 742-2591";
+        Location.F.lat = 40.4221186;
+        Location.F.lon = -86.9098706;
+        Location.F.image = R.drawable.purdue_university_art_galleries;
         Location.U.link = "https://lafbrew.com/";
         locations.add(Location.U);
 
@@ -384,6 +438,9 @@ public class MainActivity extends AppCompatActivity {
         Location.V.address = "101 Main St Suite 100, Lafayette, IN 47901";
         Location.V.time= "Monday	11AM–9PM \nTuesday	11AM–9PM \nWednesday	11AM–9PM \nThursday	11AM–9PM \nFriday	11AM–10PM \nSaturday	11AM–10PM \nSunday	11AM–8PM";
         Location.V.contact = "(765) 479-7400";
+        Location.F.lat = 40.4221186;
+        Location.F.lon = -86.9098706;
+        Location.F.image = R.drawable.purdue_university_art_galleries;
         Location.V.link = "https://www.bruburgerbar.com/";
         locations.add(Location.V);
 
@@ -397,6 +454,9 @@ public class MainActivity extends AppCompatActivity {
         Location.W.address = "329 W State St, West Lafayette, IN 47906";
         Location.W.time= "Monday	11AM–3AM \nTuesday	11AM–3AM \nWednesday	11AM–3AM \nThursday	11AM–3AM \nFriday	11AM–3AM \nSaturday	11AM–3AM \nSunday	12PM–3AM";
         Location.W.contact = "(765) 743-1467";
+        Location.F.lat = 40.4221186;
+        Location.F.lon = -86.9098706;
+        Location.F.image = R.drawable.purdue_university_art_galleries;
         Location.W.link = "https://www.harryschocolateshop.com/";
         locations.add(Location.W);
 
@@ -410,6 +470,9 @@ public class MainActivity extends AppCompatActivity {
         Location.X.address = "100 S Chauncey Ave, West Lafayette, IN 47906";
         Location.X.time= "Monday	11AM–12AM \nTuesday	11AM–12AM \nWednesday	11AM–12AM \nThursday	11AM–1AM \nFriday	11AM–2AM \nSaturday	11AM–2AM \nSunday	11AM–12AM";
         Location.X.contact = "(765) 588-6694";
+        Location.F.lat = 40.4221186;
+        Location.F.lon = -86.9098706;
+        Location.F.image = R.drawable.purdue_university_art_galleries;
         Location.X.link = "https://thetapwl.com/";
         locations.add(Location.X);
 
@@ -423,6 +486,9 @@ public class MainActivity extends AppCompatActivity {
         Location.Z.address = "301 Main St, Lafayette, IN 47901";
         Location.Z.time = "\nMonday	8AM–4:30PM \nTuesday	8AM–4:30PM \nWednesday	8AM–4:30PM \nThursday	8AM–4:30PM \nFriday	8AM–4:30PM \nSaturday	Closed \nSunday	Closed";
         Location.Z.contact = "(765) 423-9326";
+        Location.F.lat = 40.4221186;
+        Location.F.lon = -86.9098706;
+        Location.F.image = R.drawable.purdue_university_art_galleries;
         Location.Z.link = "http://www.tippecanoe.in.gov/";
         locations.add(Location.Z);
 
@@ -436,6 +502,9 @@ public class MainActivity extends AppCompatActivity {
         Location.a.address = "300 E State St, West Lafayette, IN 47906";
         Location.a.time = "N/A";
         Location.a.contact = "(765) 449-7469";
+        Location.F.lat = 40.4221186;
+        Location.F.lon = -86.9098706;
+        Location.F.image = R.drawable.purdue_university_art_galleries;
         Location.a.link = "";
         locations.add(Location.a);
 
@@ -449,6 +518,9 @@ public class MainActivity extends AppCompatActivity {
         Location.b.address = "100 Northwestern Ave, West Lafayette, IN 47906";
         Location.b.time = "Monday	7AM–5PM \nTuesday	7AM–10PM \nWednesday	7AM–10PM \nThursday	7AM–10PM \nFriday	7AM–10PM \nSaturday	7AM–10PM \nSunday	7AM–10PM";
         Location.b.contact = "(765) 743-5316";
+        Location.F.lat = 40.4221186;
+        Location.F.lon = -86.9098706;
+        Location.F.image = R.drawable.purdue_university_art_galleries;
         Location.b.link = "greyhousecoffee.com";
         locations.add(Location.b);
 
@@ -462,6 +534,9 @@ public class MainActivity extends AppCompatActivity {
         Location.c.address = "208 South St, West Lafayette, IN 47906";
         Location.c.time = "Monday	9AM–10PM \nTuesday	9AM–10PM \nWednesday	9AM–10PM \nThursday	9AM–10PM \nFriday	9AM–10PM \nSaturday	9AM–10PM \nSunday	9AM–10PM";
         Location.c.contact = "(765) 743-4446";
+        Location.F.lat = 40.4221186;
+        Location.F.lon = -86.9098706;
+        Location.F.image = R.drawable.purdue_university_art_galleries;
         Location.c.link = "viennacoffeehouse-westlafayette.com";
         locations.add(Location.c);
 
@@ -475,6 +550,9 @@ public class MainActivity extends AppCompatActivity {
         Location.d.address = "358 E State St, West Lafayette, IN 47906";
         Location.d.time = "Monday	12:30–9PM \nTuesday	12:30–9PM \nWednesday	12:30–9PM \nThursday	12:30–9PM \nFriday	12:30–10PM \nSaturday	12:30–10PM \nSunday	12:30–9PM";
         Location.d.contact = "(765) 586-9398";
+        Location.F.lat = 40.4221186;
+        Location.F.lon = -86.9098706;
+        Location.F.image = R.drawable.purdue_university_art_galleries;
         Location.d.link = "https://www.latealounge.com/";
         locations.add(Location.d);
 
@@ -488,6 +566,9 @@ public class MainActivity extends AppCompatActivity {
         Location.e.address = "409 S 4th St, Lafayette, IN 47901";
         Location.e.time = "Monday	Closed \nTuesday	5PM–12AM \nWednesday	5PM–12AM \nThursday	5PM–12AM \nFriday	5PM–2AM \nSaturday	5PM–2AM \nSunday	Closed";
         Location.e.contact = "";
+        Location.F.lat = 40.4221186;
+        Location.F.lon = -86.9098706;
+        Location.F.image = R.drawable.purdue_university_art_galleries;
         Location.e.link = "https://www.spotspotspot.com/";
         locations.add(Location.e);
 
@@ -501,6 +582,9 @@ public class MainActivity extends AppCompatActivity {
         Location.f.address = "119 Howard Ave, West Lafayette, IN 47906";
         Location.f.time = "Monday	11AM–11PM \nTuesday	11AM–11PM \nWednesday	11AM–11PM \nThursday	11AM–11PM \nFriday	11AM–1AM \nSaturday	11AM–1AM \nSunday	11AM–10PM";
         Location.f.contact = "(765) 746-4782";
+        Location.F.lat = 40.4221186;
+        Location.F.lon = -86.9098706;
+        Location.F.image = R.drawable.purdue_university_art_galleries;
         Location.f.link = "nineirishbrothers.com";
         locations.add(Location.f);
 
@@ -514,9 +598,15 @@ public class MainActivity extends AppCompatActivity {
         Location.g.address = "133 N 4th St, Lafayette, IN 47901";
         Location.g.time = "Monday	11AM–3AM \nTuesday	11AM–3AM \nWednesday	11AM–3AM \nThursday	11AM–3AM \nFriday	11AM–3AM \nSaturday	11AM–3AM \nSunday	11AM–3AM";
         Location.g.contact = "(765) 269-7179";
+        Location.F.lat = 40.4221186;
+        Location.F.lon = -86.9098706;
+        Location.F.image = R.drawable.purdue_university_art_galleries;
         Location.g.link = "digbyspub.com";
         locations.add(Location.g);
 
+        if(locations.size() % 2 != 0) {
+            locations.add(Location.placeHolder);
+        }
 
         for (int i = 0; i < locations.size(); i++) {
             names.add(locations.get(i).name);
@@ -595,8 +685,8 @@ public class MainActivity extends AppCompatActivity {
                 @Override
                 public void onClick(View v) {
                     place = j;
-                    Intent intent = new Intent(MainActivity.this, GuideActivity.class);
-                    startActivity(intent);
+                        Intent intent = new Intent(MainActivity.this, GuideActivity.class);
+                        startActivity(intent);
                 }
             });
 
